@@ -22,7 +22,7 @@ Add random generated secret key for jwt.
 
 Type ```npm install``` in client directory to install all dependencies.
 
-Create ```.env```file in client directory and add public folder for images, for example "http://{yourdomain}/images".
+Create ```.env```file in client directory and add public folder for images, for example ```http://{yourdomain}/images```.
 
 ## How to use
 
@@ -30,9 +30,9 @@ Type ```node server.js``` in api directory to start server.
 
 Type ```npm start``` in client directory to start client.
 
-## Try Application
+## Try applicaton
 
-[Try application from here](https://ivelin-web.github.io/baner-create)
+[You can try application from here](https://ivelin-web.github.io/baner-create)
 
 ## Contributors
 
