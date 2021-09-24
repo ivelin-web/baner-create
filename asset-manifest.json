@@ -4,10 +4,10 @@
     "static/js/0.15917c71.chunk.js": "/baner-create/static/js/0.15917c71.chunk.js",
     "static/js/0.15917c71.chunk.js.map": "/baner-create/static/js/0.15917c71.chunk.js.map",
     "main.css": "/baner-create/static/css/main.063756c3.chunk.css",
-    "main.js": "/baner-create/static/js/main.28ab5e7d.chunk.js",
-    "main.js.map": "/baner-create/static/js/main.28ab5e7d.chunk.js.map",
-    "runtime-main.js": "/baner-create/static/js/runtime-main.63849fe9.js",
-    "runtime-main.js.map": "/baner-create/static/js/runtime-main.63849fe9.js.map",
+    "main.js": "/baner-create/static/js/main.73b798f1.chunk.js",
+    "main.js.map": "/baner-create/static/js/main.73b798f1.chunk.js.map",
+    "runtime-main.js": "/baner-create/static/js/runtime-main.c56f5430.js",
+    "runtime-main.js.map": "/baner-create/static/js/runtime-main.c56f5430.js.map",
     "static/css/3.f2512455.chunk.css": "/baner-create/static/css/3.f2512455.chunk.css",
     "static/js/3.d64997c2.chunk.js": "/baner-create/static/js/3.d64997c2.chunk.js",
     "static/js/3.d64997c2.chunk.js.map": "/baner-create/static/js/3.d64997c2.chunk.js.map",
@@ -17,10 +17,10 @@
     "static/js/5.4366bef2.chunk.js": "/baner-create/static/js/5.4366bef2.chunk.js",
     "static/js/5.4366bef2.chunk.js.map": "/baner-create/static/js/5.4366bef2.chunk.js.map",
     "static/css/6.9d3307d4.chunk.css": "/baner-create/static/css/6.9d3307d4.chunk.css",
-    "static/js/6.9a6c5423.chunk.js": "/baner-create/static/js/6.9a6c5423.chunk.js",
-    "static/js/6.9a6c5423.chunk.js.map": "/baner-create/static/js/6.9a6c5423.chunk.js.map",
-    "static/js/7.0ddbd616.chunk.js": "/baner-create/static/js/7.0ddbd616.chunk.js",
-    "static/js/7.0ddbd616.chunk.js.map": "/baner-create/static/js/7.0ddbd616.chunk.js.map",
+    "static/js/6.c7a464ec.chunk.js": "/baner-create/static/js/6.c7a464ec.chunk.js",
+    "static/js/6.c7a464ec.chunk.js.map": "/baner-create/static/js/6.c7a464ec.chunk.js.map",
+    "static/js/7.a362e123.chunk.js": "/baner-create/static/js/7.a362e123.chunk.js",
+    "static/js/7.a362e123.chunk.js.map": "/baner-create/static/js/7.a362e123.chunk.js.map",
     "static/js/8.0f0db7cd.chunk.js": "/baner-create/static/js/8.0f0db7cd.chunk.js",
     "static/js/8.0f0db7cd.chunk.js.map": "/baner-create/static/js/8.0f0db7cd.chunk.js.map",
     "static/js/9.a41d3280.chunk.js": "/baner-create/static/js/9.a41d3280.chunk.js",
@@ -34,10 +34,10 @@
     "static/js/3.d64997c2.chunk.js.LICENSE.txt": "/baner-create/static/js/3.d64997c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63849fe9.js",
+    "static/js/runtime-main.c56f5430.js",
     "static/css/3.f2512455.chunk.css",
     "static/js/3.d64997c2.chunk.js",
     "static/css/main.063756c3.chunk.css",
-    "static/js/main.28ab5e7d.chunk.js"
+    "static/js/main.73b798f1.chunk.js"
   ]
 }
