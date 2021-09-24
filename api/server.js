@@ -3,6 +3,7 @@ import mongoose from "mongoose";
 import dotenv from "dotenv";
 import morgan from "morgan";
 import helmet from "helmet";
+import cors from "cors";
 import cookieParser from "cookie-parser";
 import path from "path";
 
@@ -20,6 +21,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(helmet());
 app.use(morgan("common"));
+app.use(cors());
 app.use("/images", express.static(path.join(process.cwd(), "public/images")));
 
 // DB connection
