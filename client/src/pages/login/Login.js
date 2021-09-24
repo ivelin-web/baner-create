@@ -35,6 +35,7 @@ export default function Login() {
                         dispatch(LoginSuccess(userRes.data));
                     })
                     .catch((err) => {
+                        dispatch(LoginFailed());
                         console.log(err);
                     });
             })
