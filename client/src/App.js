@@ -28,17 +28,13 @@ function App() {
             });
     }, []);
 
-    if (isFetching) {
-        return (
-            <div className="position-absolute start-50 top-50" style={{ transform: "translate(-50%, -50%)" }}>
-                <Spinner animation="border" role="status" variant="primary">
-                    <span className="visually-hidden">Loading...</span>
-                </Spinner>
-            </div>
-        );
-    }
-
-    return (
+    return isFetching ? (
+        <div className="position-absolute start-50 top-50" style={{ transform: "translate(-50%, -50%)" }}>
+            <Spinner animation="border" role="status" variant="primary">
+                <span className="visually-hidden">Loading...</span>
+            </Spinner>
+        </div>
+    ) : (
         <>
             <Header />
             <main>
