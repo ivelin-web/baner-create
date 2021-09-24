@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,cACI,uBACJ,CAEA,YACI,4BACJ","file":"main.063756c3.chunk.css","sourcesContent":[".text-primary {\r\n    color: #027d7f !important;\r\n}\r\n\r\n.bg-primary {\r\n    background: #027d7f !important;\r\n}\r\n"]}

@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/css/0.0975cee1.chunk.css": "/baner-create/static/css/0.0975cee1.chunk.css",
+    "static/js/0.0ed12865.chunk.js": "/baner-create/static/js/0.0ed12865.chunk.js",
+    "static/js/0.0ed12865.chunk.js.map": "/baner-create/static/js/0.0ed12865.chunk.js.map",
+    "main.css": "/baner-create/static/css/main.063756c3.chunk.css",
+    "main.js": "/baner-create/static/js/main.9e74ea80.chunk.js",
+    "main.js.map": "/baner-create/static/js/main.9e74ea80.chunk.js.map",
+    "runtime-main.js": "/baner-create/static/js/runtime-main.b6a41177.js",
+    "runtime-main.js.map": "/baner-create/static/js/runtime-main.b6a41177.js.map",
+    "static/css/3.f2512455.chunk.css": "/baner-create/static/css/3.f2512455.chunk.css",
+    "static/js/3.3b10d7b3.chunk.js": "/baner-create/static/js/3.3b10d7b3.chunk.js",
+    "static/js/3.3b10d7b3.chunk.js.map": "/baner-create/static/js/3.3b10d7b3.chunk.js.map",
+    "static/css/4.11d356fb.chunk.css": "/baner-create/static/css/4.11d356fb.chunk.css",
+    "static/js/4.90c4ca3a.chunk.js": "/baner-create/static/js/4.90c4ca3a.chunk.js",
+    "static/js/4.90c4ca3a.chunk.js.map": "/baner-create/static/js/4.90c4ca3a.chunk.js.map",
+    "static/js/5.76985c49.chunk.js": "/baner-create/static/js/5.76985c49.chunk.js",
+    "static/js/5.76985c49.chunk.js.map": "/baner-create/static/js/5.76985c49.chunk.js.map",
+    "static/css/6.9d3307d4.chunk.css": "/baner-create/static/css/6.9d3307d4.chunk.css",
+    "static/js/6.eb854a86.chunk.js": "/baner-create/static/js/6.eb854a86.chunk.js",
+    "static/js/6.eb854a86.chunk.js.map": "/baner-create/static/js/6.eb854a86.chunk.js.map",
+    "static/js/7.78b8afc2.chunk.js": "/baner-create/static/js/7.78b8afc2.chunk.js",
+    "static/js/7.78b8afc2.chunk.js.map": "/baner-create/static/js/7.78b8afc2.chunk.js.map",
+    "static/js/8.b1491715.chunk.js": "/baner-create/static/js/8.b1491715.chunk.js",
+    "static/js/8.b1491715.chunk.js.map": "/baner-create/static/js/8.b1491715.chunk.js.map",
+    "static/js/9.99d94413.chunk.js": "/baner-create/static/js/9.99d94413.chunk.js",
+    "static/js/9.99d94413.chunk.js.map": "/baner-create/static/js/9.99d94413.chunk.js.map",
+    "index.html": "/baner-create/index.html",
+    "static/css/0.0975cee1.chunk.css.map": "/baner-create/static/css/0.0975cee1.chunk.css.map",
+    "static/css/3.f2512455.chunk.css.map": "/baner-create/static/css/3.f2512455.chunk.css.map",
+    "static/css/4.11d356fb.chunk.css.map": "/baner-create/static/css/4.11d356fb.chunk.css.map",
+    "static/css/6.9d3307d4.chunk.css.map": "/baner-create/static/css/6.9d3307d4.chunk.css.map",
+    "static/css/main.063756c3.chunk.css.map": "/baner-create/static/css/main.063756c3.chunk.css.map",
+    "static/js/3.3b10d7b3.chunk.js.LICENSE.txt": "/baner-create/static/js/3.3b10d7b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a41177.js",
+    "static/css/3.f2512455.chunk.css",
+    "static/js/3.3b10d7b3.chunk.js",
+    "static/css/main.063756c3.chunk.css",
+    "static/js/main.9e74ea80.chunk.js"
+  ]
+}
